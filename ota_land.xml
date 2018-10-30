@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <XenonOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Oreo>
+    <Pie>
         <land>
-            <Filename>XenonHD-180315-Experimental</Filename>
-            <RomUrl>https://raw.githubusercontent.com/dineshthangavel47/XenonOTATest/master/XenonHD-180315-Experimental-land.zip</RomUrl>
-            <MD5Url>https://raw.githubusercontent.com/dineshthangavel47/XenonOTATest/master/XenonHD-180315-Experimental-land.zip.md5sum</MD5Url>
+            <Filename>XenonHD-181118-Experimental</Filename>
+            <RomUrl>https://raw.githubusercontent.com/Devil7DK/XenonOTATest/master/XenonHD-181118-Experimental-land.zip</RomUrl>
+            <MD5Url>https://raw.githubusercontent.com/Devil7DK/XenonOTATest/master/XenonHD-181118-Experimental-land.zip.md5sum</MD5Url>
             <ChangelogUrl>https://mirrors.c0urier.net/android/teamhorizon/O/Experimental/lux/Changelog.txt</ChangelogUrl>
         </land>
-    </Oreo>
+    </Pie>
 </XenonOTA>
